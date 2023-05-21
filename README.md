@@ -8,3 +8,6 @@ tutorial by H_EDUCATE on [YouTube](https://www.youtube.com/watch?v=-C4FCxP-QqE&l
   > os
   > python-dotenv
   > openai
+
+## TODO
+I would need to get billed to continue sending requests - I've reached the allowance for the free version
