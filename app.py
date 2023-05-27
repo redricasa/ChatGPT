@@ -22,9 +22,11 @@ def BasicGeneration(userPrompt):
         top_p=1.0,
         frequency_penalty=0.0,
         presence_penalty=0.0,
-        log_level="info",
+        # log_level="info",
+
         # model = "gpt-3.5-turbo",
         # messages = [
+        #     {"role": "system", "content": "You are a helpful assistant."},
         #     {"role" : "user", "content" : userPrompt}
         # ]
     )
