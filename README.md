@@ -8,6 +8,10 @@ tutorial by H_EDUCATE on [YouTube](https://www.youtube.com/watch?v=-C4FCxP-QqE&l
   > os
   > python-dotenv
   > openai
+- Setup your .env file with KEY="[your API key]":
+  - Under your profile pic, click on 'View API Keys' and click on 'Create new secret key'
+  - create a .gitignore file and type in '.env'
+- The free trial will end after a dozen or two of requests. It's recommended to bill for a chat subscription!
 
 ## TODO
-I would need to get billed to continue sending requests - I've reached the allowance for the free version
+- Design and Build the frontend website for this app!
